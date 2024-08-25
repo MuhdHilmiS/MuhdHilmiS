@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Hilmi Shakri
 
-Welcome to my GitHub profile! I'm a passionate **pro gamer** and developer with a diverse skill set in both front-end and back-end technologies. Whether it's building dynamic web applications or developing immersive game experiences, I love turning ideas into reality through code.
+Welcome to my GitHub profile! I'm a passionate web and application developer with a diverse skill set in both front-end and back-end technologies. Whether it's building dynamic web applications or developing immersive game experiences, I love turning ideas into reality through code.
 
 ## 🛠️ Skills & Technologies
 
